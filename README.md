@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Python, SQL, Data Visualization, ML Libraries**
 
+- 👨‍💻 All of my projects are available at [https://varanmehta.com/](https://varanmehta.com/)
+
 - 📫 How to reach me **varan5400@gmail.com**
 
 - ⚡ A Fun fact about me is: **I love Traveling**
