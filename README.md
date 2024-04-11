@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varan1707" alt="varan1707" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Dashboards and Providing Business Driven Data Solutions**
+- 🔭 I’m currently working on **Model  Deployement and Analyzing and Providing Data Driven Business Solutions**
 
 - 🌱 I’m currently learning **AWS, Snowflake Cloud, Deep Learning**
 
