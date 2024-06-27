@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **varan5400@gmail.com**
 
-- ⚡ A Fun fact about me is: **I love Traveling**
+- ⚡ A Fun fact about me is: **I love Traveling, have been to 15 countries around the world and am aiming to travel more than 100 countries during my lifetime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
