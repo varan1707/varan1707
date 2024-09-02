@@ -1,7 +1,7 @@
-<h1 align="center">Hi, 👋 I'm Varan Mehta</h1>
-<h3 align="center">A passionate Data Analyst and ML Engineer learning one step at a time.</h3>
+<h1 align="center">Howdy, 👋 I'm Varan</h1>
+<h3 align="center">A student learning about the world of Software everyday.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varan1707" alt="varan1707" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on **Model  Deployement and Analyzing and Providing Data Driven Business Solutions**
 
