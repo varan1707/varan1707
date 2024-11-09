@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Model  Deployement and Analyzing and Providing Data Driven Business Solutions**
+- 🔭 I’m currently working on **Model  Deployement and analyzing and providing data driven business solutions**
 
 - 🌱 I’m currently learning **AWS, Snowflake Cloud, Deep Learning**
 
