@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, 👋 I'm Varan</h1>
-<h3 align="center">A student learning about the world of Software everyday.</h3>
+<h3 align="center">An avid learner working to become a data professional.</h3>
 
 <br>
 
